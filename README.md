@@ -1,8 +1,8 @@
 # Hola, soy Mateo Quimbiulco 👋
 
-### Ingeniero Matemático | Data Analyst & BI Specialist
+### Ingeniero Matemático | Data Analyst/Science & BI Specialist
 
-Soy Ingeniero Matemático por la Escuela Politécnica Nacional (EPN), especializado en transformar problemas complejos de la industria y la logística en modelos cuantitativos y visualizaciones estratégicas. Me apasiona descubrir los patrones ocultos en los datos para optimizar recursos, predecir comportamientos (Forecasting/Riesgo) y facilitar la toma de decisiones gerenciales. 
+Soy Ingeniero Matemático graduado de la Escuela Politécnica Nacional (EPN), especializado en transformar problemas complejos de la industria y la logística en modelos cuantitativos y visualizaciones estratégicas. Me apasiona descubrir los patrones ocultos en los datos para optimizar recursos, predecir comportamientos (Forecasting/Riesgo) y facilitar la toma de decisiones gerenciales. 
 
 Actualmente, aplico mi rigor analítico en el sector industrial, modelando bases de datos y creando indicadores de eficiencia, con un fuerte enfoque en migrar mis habilidades de clasificación matemática e Inteligencia de Negocios hacia el modelado de riesgos y optimización de procesos.
 
@@ -24,5 +24,5 @@ Actualmente, aplico mi rigor analítico en el sector industrial, modelando bases
 ---
 
 ### 📫 Conectemos:
-- **LinkedIn:** [Tu Nombre en LinkedIn](AQUÍ_PEGA_TU_LINK_DE_LINKEDIN)
+- **LinkedIn:** [Mateo Quimbiulco](AQUÍ_PEGA_TU_LINK_DE_LINKEDIN)
 - **Email:** mrquimbiulco@gmail.com
